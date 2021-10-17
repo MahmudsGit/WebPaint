@@ -1,2 +1,3 @@
-# BootStrap Project
-#PSD to HTML CONVERT
+# BootStrap 
+# Responsive Project
+# PSD to HTML CONVERT
